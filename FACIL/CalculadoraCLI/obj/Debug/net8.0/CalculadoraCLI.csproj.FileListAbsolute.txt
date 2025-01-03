@@ -1,0 +1,15 @@
+C:\Users\luisj\Documents\GitHub\c--projects\FACIL\CalculadoraCLI\bin\Debug\net8.0\CalculadoraCLI.exe
+C:\Users\luisj\Documents\GitHub\c--projects\FACIL\CalculadoraCLI\bin\Debug\net8.0\CalculadoraCLI.deps.json
+C:\Users\luisj\Documents\GitHub\c--projects\FACIL\CalculadoraCLI\bin\Debug\net8.0\CalculadoraCLI.runtimeconfig.json
+C:\Users\luisj\Documents\GitHub\c--projects\FACIL\CalculadoraCLI\bin\Debug\net8.0\CalculadoraCLI.dll
+C:\Users\luisj\Documents\GitHub\c--projects\FACIL\CalculadoraCLI\bin\Debug\net8.0\CalculadoraCLI.pdb
+C:\Users\luisj\Documents\GitHub\c--projects\FACIL\CalculadoraCLI\obj\Debug\net8.0\CalculadoraCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisj\Documents\GitHub\c--projects\FACIL\CalculadoraCLI\obj\Debug\net8.0\CalculadoraCLI.AssemblyInfoInputs.cache
+C:\Users\luisj\Documents\GitHub\c--projects\FACIL\CalculadoraCLI\obj\Debug\net8.0\CalculadoraCLI.AssemblyInfo.cs
+C:\Users\luisj\Documents\GitHub\c--projects\FACIL\CalculadoraCLI\obj\Debug\net8.0\CalculadoraCLI.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Documents\GitHub\c--projects\FACIL\CalculadoraCLI\obj\Debug\net8.0\CalculadoraCLI.sourcelink.json
+C:\Users\luisj\Documents\GitHub\c--projects\FACIL\CalculadoraCLI\obj\Debug\net8.0\CalculadoraCLI.dll
+C:\Users\luisj\Documents\GitHub\c--projects\FACIL\CalculadoraCLI\obj\Debug\net8.0\refint\CalculadoraCLI.dll
+C:\Users\luisj\Documents\GitHub\c--projects\FACIL\CalculadoraCLI\obj\Debug\net8.0\CalculadoraCLI.pdb
+C:\Users\luisj\Documents\GitHub\c--projects\FACIL\CalculadoraCLI\obj\Debug\net8.0\CalculadoraCLI.genruntimeconfig.cache
+C:\Users\luisj\Documents\GitHub\c--projects\FACIL\CalculadoraCLI\obj\Debug\net8.0\ref\CalculadoraCLI.dll
